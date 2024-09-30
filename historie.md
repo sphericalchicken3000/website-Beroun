@@ -1,4 +1,4 @@
-**Tato stránka dočasně je članek z Wikipedie
+**Tato stránka dočasně je članek z Wikipedie**
 
 # Historie
 Podle Ottova slovníku naučného jde založení Berouna hluboko do minulosti. Již snad roku 1088, jistě však v roce 1179 zde stávala ves Brod s obyvateli rolníky a rybáři, a na druhé straně řeky v lukách ves Podolí. Zde býval hlavní brod a přívoz na cestě z Prahy k Plzni. Asi za krále Václava I. zbudovali němečtí osadníci nynější město.
