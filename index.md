@@ -4,3 +4,4 @@
 * [Poloha](/poloha.md) 
 * [Základní info](/info.md)
 * [Historie](/historie.md)
+* [Obrázky](/obrazky.md)
