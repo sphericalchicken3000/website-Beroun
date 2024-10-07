@@ -7,4 +7,4 @@
 ![Zdroj: infocentrumberoun.cz](https://www.infocentrumberoun.cz/pub/fm/Virtualni%20prohlidka.jpg)
 ***Zdroj: infocentrumberoun.cz***
 
-!([https://www.golfberoun.cz/wp-content/uploads/Beroun-Golf-Resort-12-720x480.jpg](https://mediaim.expedia.com/destination/2/4767f376ea0e74b87ffe206114c8781b.jpg)]
+!([https://www.golfberoun.cz/wp-content/uploads/Beroun-Golf-Resort-12-720x480.jpg](https://mediaim.expedia.com/destination/2/4767f376ea0e74b87ffe206114c8781b.jpg)
