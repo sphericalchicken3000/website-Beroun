@@ -1,2 +1,2 @@
 **Beroun je město v okrese Beroun ve Středočeském kraji se zajímavou historijí.**
-<p>{{ site.pages }}</p>
+<p>{{ site.posts }}</p>
