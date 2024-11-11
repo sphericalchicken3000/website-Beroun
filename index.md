@@ -8,3 +8,4 @@
 # <center>Odkazy</center>
 - [**poloha**](/poloha.md)
 - [**obrázky**](/obrazky.md)
+- [**historie**](/historie.md)
